@@ -1,5 +1,5 @@
 function section (character){
-    //template
+    //Intente meter las imágenes por url pero salió CORS por eso no pude :(
     return `<div class="example-1 card">
     <div class="wrapper" style="background: url(./img/${character.name}.webp) 50% 1%/cover">
       <div class="date">
